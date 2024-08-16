@@ -3,14 +3,14 @@ This repository is for personal use where I include domains that I find relevant
 
 | Name | Description | 
 |---|---|
-| [Ads and trackers](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Adsandtrackers.txt) | Blocks ads and trackers |  
-| [Mining pages](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Miningpages.txt) | Blocks mining pages and services | 
-| [Pages with porn](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Rastreadores.txt) | Blocks pages with XXX porn content | 
-| [Telemetry](https://github.com/PauloHenkeM/pi-hole/blob/main/Telemetry.txt) | Blocks telemetry from Windows and other systems |
-| [Pages Malicious](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Malicious.txt) | Blocks domains with viruses |
-| [Block Ransomware](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ransomware.txt) | Block domains with ransomware |
-| [Block Spam](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Spam.mails.txt) | Block domais with email spam |
-| [Block Ads Youtube](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Youtube.txt) | Bloque YouTube ads | 
+| [Ads and trackers](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ads-and-trackers.txt) | Blocks ads and trackers |
+| [Email spam](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Email-spam.txt) | Block domais with email spam |
+| [Malicious](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Malicious.txt) | Blocks domains with viruses |
+| [Mining pages](hthttps://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Mining.txt) | Blocks mining pages and services | 
+| [Ransomware](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ransomware.txt) | Block domains with ransomware |
+| [Telemetry](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Telemetry.txt) | Blocks telemetry from Windows and other systems |
+| [XXX porn](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/XXX-porn.txt) | Blocks pages with XXX porn content | 
+| [Youtube](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/YouTube.txt) | Bloque YouTube ads | 
 
 
 # External lists 
@@ -18,7 +18,7 @@ In this repository, you'll find lists from other projects with custom blocklists
 
 | Name | Description |
 |---|---|
-| [Firebog](https://firebog.net) | Multiple Blocklists. |
+| [Firebog](https://firebog.net) | Multiple Blocklists |
 | [Block List Project](https://github.com/blocklistproject/Lists) | Multiple Blocklists |
 | [Avoidthehack](https://avoidthehack.com/best-pihole-blocklists) | Multiple Blocklists |
 | [Pi-hole Blocklists](https://github.com/topics/pihole-blocklists) | Multiple Blocklists |
