@@ -3,6 +3,7 @@ This repository is for personal use where I include domains that I find relevant
 
 | Name | Description | 
 |---|---|
+| [ALL]() | All the lists below have been consolidated and duplicates removed |
 | [Ads and trackers](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ads-and-trackers.txt) | Blocks ads and trackers |
 | [Email spam](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Email-spam.txt) | Block domais with email spam |
 | [Malicious](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Malicious.txt) | Blocks domains with viruses |
