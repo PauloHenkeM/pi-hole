@@ -6,7 +6,7 @@ This repository is for personal use where I include domains that I find relevant
 | [Ads and trackers](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ads-and-trackers.txt) | Blocks ads and trackers |
 | [Email spam](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Email-spam.txt) | Block domais with email spam |
 | [Malicious](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Malicious.txt) | Blocks domains with viruses |
-| [Mining](hthttps://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Mining.txt) | Blocks mining pages and services | 
+| [Mining](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Mining.txt) | Blocks mining pages and services | 
 | [Ransomware](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ransomware.txt) | Block domains with ransomware |
 | [Telemetry](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Telemetry.txt) | Blocks telemetry from Windows and other systems |
 | [XXX porn](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/XXX-porn.txt) | Blocks pages with XXX porn content | 
@@ -27,5 +27,5 @@ In this repository, you'll find lists from other projects with custom blocklists
 | [Blocklists](https://github.com/nickoppen/pihole-blocklists) | Social Media and Gaming Lists |
 | [RegEx Filters](https://github.com/slyfox1186/pihole-regex) | RegEX Filters |
 
-### Disclaimer
+# Disclaimer
 This repository is publicly available for access and use of the custom blocklists. However, third-party collaborations or contributions are not accepted, and the maintainer is not responsible for reviewing, accepting, or incorporating external proposals. The use of the lists is entirely at the user's own risk. The lists were obtained from public repositories and are free of copyright.
