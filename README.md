@@ -4,14 +4,14 @@ Este repositório contém listas de bloqueios personalizadas para o Pi-hole, um 
 ## Detalhes das listas de bloqueios
 | Nome da Lista      | Breve Descrição                                     | 
 |--------------------|-----------------------------------------------------|
-| Ads and trackers   | Bloqueia anúncios e rastreadores                    |  
-| Mining pages       | Bloqueia páginas e serviços de mineração            | 
-| Pages with porn    | Bloqueia páginas com conteúdo XXX Porn              | 
-| Telemetry          | Bloqueia telemetria do SO Windows e outros Sistemas |
-| Pages Malicious    | Bloqueia domínios com vírus                         |
-| Block Ransomware   | Bloqueia domínios com ransomware                    |
-| Block Spam         | Bloqueia domínios com e-mail spam                   |
-| Block Ads Youtube  | Bloqueia anúncios do youtube                        | 
+| [Ads and trackers](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Adsandtrackers.txt)   | Bloqueia anúncios e rastreadores                    |  
+| [Mining pages](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Miningpages.txt)       | Bloqueia páginas e serviços de mineração            | 
+| [Pages with porn](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Rastreadores.txt)    | Bloqueia páginas com conteúdo XXX Porn              | 
+| [Telemetry](https://github.com/PauloHenkeM/pi-hole/blob/main/Telemetry.txt)          | Bloqueia telemetria do SO Windows e outros Sistemas |
+| [Pages Malicious](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Malicious.txt)   | Bloqueia domínios com vírus                         |
+| [Block Ransomware](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ransomware.txt)   | Bloqueia domínios com ransomware                    |
+| [Block Spam](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Spam.mails.txt)         | Bloqueia domínios com e-mail spam                   |
+| [Block Ads Youtube](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Youtube.txt)  | Bloqueia anúncios do youtube                        | 
 
 
 # Listas Externas para Pi-hole 
