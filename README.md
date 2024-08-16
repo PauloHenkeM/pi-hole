@@ -6,7 +6,7 @@ This repository is for personal use where I include domains that I find relevant
 | [Ads and trackers](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ads-and-trackers.txt) | Blocks ads and trackers |
 | [Email spam](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Email-spam.txt) | Block domais with email spam |
 | [Malicious](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Malicious.txt) | Blocks domains with viruses |
-| [Mining pages](hthttps://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Mining.txt) | Blocks mining pages and services | 
+| [Mining](hthttps://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Mining.txt) | Blocks mining pages and services | 
 | [Ransomware](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ransomware.txt) | Block domains with ransomware |
 | [Telemetry](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Telemetry.txt) | Blocks telemetry from Windows and other systems |
 | [XXX porn](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/XXX-porn.txt) | Blocks pages with XXX porn content | 
