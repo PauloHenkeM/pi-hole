@@ -17,7 +17,7 @@ Este repositório contém listas de bloqueios personalizadas para o Pi-hole, um 
 # Listas Externas para Pi-hole 
 Neste repositório encontram-se listas de outros projetos com listas de bloqueios personalizados para o serviço PiHole.
 
-## Projetos com Listas de bloqueios (BlackLists) 📖
+## Projetos com Listas de bloqueios
 | Nome da Lista                | Breve Descrição                | RAW                                                              |
 |------------------------------|--------------------------------|------------------------------------------------------------------|
 | Firebog                      | Várias Listas de Bloqueios     | [list](https://firebog.net)                                      |
