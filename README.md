@@ -2,19 +2,16 @@
 Este repositório contém listas de bloqueios personalizadas para o Pi-hole, um serviço de bloqueio de anúncios e rastreadores via DNS. As listas também são compatíveis com AdGuard, Ublock e arquivos Hosts.
 
 ## Detalhes das listas de bloqueios
-| Nome da Lista      | Breve Descrição                                     | RAW                                                                                      |
-|--------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------|
-| Ads and trackers   | Bloqueia anúncios e rastreadores                    | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
-| Mining pages       | Bloqueia páginas e serviços de mineração            | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Miningpages.txt)    | 
-| Pages with porn    | Bloqueia páginas com conteúdo XXX Porn              | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt)      | 
-| Telemetry          | Bloqueia telemetria do SO Windows e outros Sistemas | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Telemetry.txt)      |
-| Pages Malicious    | Bloqueia domínios com vírus                         | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Malicious.txt)      |
-| Block Ransomware   | Bloqueia domínios com ransomware                    | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/ransomware.txt)     |
-| Block Spam         | Bloqueia domínios com e-mail spam                   | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/spam.mails.txt)     |
-| Block App TikTok   | Bloqueia aplicativo TikTok                          | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/tiktok.txt)         |
-| Block App Facebook | Bloqueia aplicativo Facebook                        | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt)       |
-| Block App WhatsApp | Bloqueia aplicativo WhatsApp                        | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/whatsapp.txt)       |
-| Block Ads Youtube  | Bloqueia anúncios do youtube                        | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/youtube.txt)        |
+| Nome da Lista      | Breve Descrição                                     | 
+|--------------------|-----------------------------------------------------|
+| Ads and trackers   | Bloqueia anúncios e rastreadores                    |  
+| Mining pages       | Bloqueia páginas e serviços de mineração            | 
+| Pages with porn    | Bloqueia páginas com conteúdo XXX Porn              | 
+| Telemetry          | Bloqueia telemetria do SO Windows e outros Sistemas |
+| Pages Malicious    | Bloqueia domínios com vírus                         |
+| Block Ransomware   | Bloqueia domínios com ransomware                    |
+| Block Spam         | Bloqueia domínios com e-mail spam                   |
+| Block Ads Youtube  | Bloqueia anúncios do youtube                        | 
 
 
 # Listas Externas para Pi-hole 
