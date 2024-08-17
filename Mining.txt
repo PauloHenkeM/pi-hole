@@ -1,3 +1,4 @@
+
 _thums.ero-advertising.com
 000.0x1f4b0.com
 001.0x1f4b0.com
@@ -6929,7 +6930,6 @@ analytics.traidnt.net
 analytics.traviangames.com
 analytics.tribeca.vidavee.com
 analytics.tube8.phncdn.com
-analytics.twitter.com
 analytics.upworthy.com
 analytics.us.archive.org
 analytics.vodafone.co.uk
