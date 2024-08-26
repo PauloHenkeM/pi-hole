@@ -1,19 +1,6 @@
 # Description
 This repository is for personal use where I include domains that I find relevant in the lists. Collaboration is welcome.
 
-| Name | Description | 
-|---|---|
-| [ALL](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/0.ALL.txt) | All the lists below have been consolidated and duplicates removed |
-| [Ads and trackers](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ads-and-trackers.txt) | Blocks ads and trackers |
-| [Email spam](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Email-spam.txt) | Block domais with email spam |
-| [Malicious](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Malicious.txt) | Blocks domains with viruses |
-| [Mining](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Mining.txt) | Blocks mining pages and services | 
-| [Ransomware](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Ransomware.txt) | Block domains with ransomware |
-| [Telemetry](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/Telemetry.txt) | Blocks telemetry from Windows and other systems |
-| [XXX porn](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/XXX-porn.txt) | Blocks pages with XXX porn content | 
-| [Youtube](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/YouTube.txt) | Bloque YouTube ads | 
-
-
 # External lists 
 In this repository, you'll find lists from other projects with custom blocklists
 
