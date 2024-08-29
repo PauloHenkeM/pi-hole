@@ -1,6 +1,8 @@
 # Description
 This repository is for personal use where I include domains that I find relevant in the lists. Collaboration is welcome.
 
+[List](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/List.txt)
+
 # External lists 
 In this repository, you'll find lists from other projects with custom blocklists
 
