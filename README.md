@@ -1,21 +1,21 @@
-# Description
-This repository is for personal use where I include domains that I find relevant in the lists. Collaboration is welcome.
+# Descrição
+Este repositório é para uso pessoal, onde incluo domínios que considero relevantes nas listas. Colaborações são bem-vindas.
 
-[List](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/List.txt)
+[Lista](https://raw.githubusercontent.com/PauloHenkeM/pi-hole/main/List.txt)
 
-# External lists 
-In this repository, you'll find lists from other projects with custom blocklists
+# Lista externas
+Neste repositório, você encontrará listas de outros projetos com listas de bloqueio personalizadas
 
-| Name | Description |
-|---|---|
-| [Firebog](https://firebog.net) | Multiple Blocklists |
-| [Block List Project](https://github.com/blocklistproject/Lists) | Multiple Blocklists |
-| [Avoidthehack](https://avoidthehack.com/best-pihole-blocklists) | Multiple Blocklists |
-| [Pi-hole Blocklists](https://github.com/topics/pihole-blocklists) | Multiple Blocklists |
-| [The Big Blocklist Collection](https://github.com/sefinek24/PiHole-Blocklist-Collection) | Multiple Blocklists |
-| [Awesome Privacy](https://github.com/pluja/awesome-privacy) | Privacy-Focused Lists |
-| [Blocklists](https://github.com/nickoppen/pihole-blocklists) | Social Media and Gaming Lists |
-| [RegEx Filters](https://github.com/slyfox1186/pihole-regex) | RegEX Filters |
+| Nome                                                                                     | Descrição                      |
+| ---------------------------------------------------------------------------------------- | ------------------------------ |
+| [Firebog](https://firebog.net)                                                           | Múltiplas listas de bloqueio   |
+| [Block List Project](https://github.com/blocklistproject/Lists)                          | Múltiplas listas de bloqueio   |
+| [Avoidthehack](https://avoidthehack.com/best-pihole-blocklists)                          | Múltiplas listas de bloqueio   |
+| [Pi-hole Blocklists](https://github.com/topics/pihole-blocklists)                        | Múltiplas listas de bloqueio   |
+| [The Big Blocklist Collection](https://github.com/sefinek24/PiHole-Blocklist-Collection) | Múltiplas listas de bloqueio   |
+| [Awesome Privacy](https://github.com/pluja/awesome-privacy)                              | Listas focadas em privacidade  |
+| [Blocklists](https://github.com/nickoppen/pihole-blocklists)                             | Listas de mídia social e jogos |
+| [RegEx Filters](https://github.com/slyfox1186/pihole-regex)                              | RegEX Filtros                  |
 
-# Disclaimer
-This repository is publicly available for access and use of the custom blocklists. However, third-party collaborations or contributions are not accepted, and the maintainer is not responsible for reviewing, accepting, or incorporating external proposals. The use of the lists is entirely at the user's own risk. The lists were obtained from public repositories and are free of copyright.
+# Observação
+Este repositório está disponível publicamente para acesso e uso das blocklists personalizadas. No entanto, colaborações ou contribuições de terceiros são aceitas, e o mantenedor não é responsável por revisar, aceitar ou incorporar propostas externas. O uso das listas é inteiramente por conta e risco do usuário. As listas foram obtidas de repositórios públicos e são livres de direitos autorais.
